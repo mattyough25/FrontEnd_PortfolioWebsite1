@@ -256,7 +256,7 @@ section {
 .header-content .left-header .image {
   border-radius: var(--br-sm-2);
   height: 90%;
-  width: 68%;
+  width: 50%;
   margin-left: 4rem;
   background-color: var(--color-black);
   -webkit-transition: all .4s ease-in-out;
@@ -451,36 +451,36 @@ section {
   width: 60%;
 }
 
-.about-stats .progress-bars .progress-bar .progress-con .progress .html {
-  width: 50%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .wd {
+  width: 25%;
 }
 
-.about-stats .progress-bars .progress-bar .progress-con .progress .css {
-  width: 50%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .dl {
+  width: 25%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .matlab {
-  width: 90%;
+  width: 98%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
-  width: 70%;
+  width: 75%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .java {
-  width: 60%;
+  width: 25%;
 }
 
-.about-stats .progress-bars .progress-bar .progress-con .progress .js {
-  width: 50%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .pm {
+  width: 98%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .cpp {
-  width: 60%;
+  width: 25%;
 }
 
-.about-stats .progress-bars .progress-bar .progress-con .progress .ue {
-  width: 75%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .ds {
+  width: 40%;
 }
 
 .stat-title {
